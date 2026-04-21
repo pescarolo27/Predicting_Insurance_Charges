@@ -4,6 +4,4 @@
 
 **The Data:** Packed with information on health insurance customers, the `insurance.csv` dataset is your key to unlocking patterns in healthcare costs. Once your model is built using the `insurance.csv` dataset, the next step is to apply it to the `validation_dataset.csv`. This new dataset, similar to your training data minus the charges column, tests your model's accuracy and real-world utility by predicting costs for new customers.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was applied in this project.
+This project was done in July, 2025. Machine learning was applied in this project.
