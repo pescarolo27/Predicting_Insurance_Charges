@@ -2,7 +2,7 @@
 
 **Background:** As a data scientist at a top health insurance company, customers' health care information can be used to obtain various health care insights. Moreover, predictive analytics can unlock patterns to forecast health care costs for customers. Such insights will help tailor services & guide customers in planning their health care expenses more effectively.
 
-**The Data:** The primary training dataset (`insurance.csv`) contains various details concerning customers & relevant information about their health. Follow data preprocessing, models can be built using this dataset & applied to the `validation.csv` dataset to evaluate its accuracy & real-world utility by predicting costs for new customers.
+**The Data:** The primary training dataset (`insurance.csv`) contains various details concerning customers & relevant information about their health. Follow data preprocessing, models can be built using this dataset & applied to the validation dataset (`validation.csv`) to evaluate its accuracy & real-world utility by predicting costs for new customers.
 
 This project was done in July, 2025.
 
