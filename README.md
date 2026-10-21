@@ -30,4 +30,4 @@ In short, only customers' age, BMI, smoking status, & number of children on thei
 
 ### Recommendations
 Customers assessing this health insurance company would be advised that their insurance charges are generally related with getting older, having a higher BMI (more overweight), having more children (specifically more than four), & smoking.  
-Of the less significant factors, insurance charges are slightly less expensive for customers in the northeast US than anywhere else. When it comes to peoples' sex, females typically see slightly higher insurance charges than males (by about \\$34,000), but males did see the cheapest & most expensive insurance bills overall.
+Of the less significant factors, insurance charges are slightly less expensive for customers in the northeast US than anywhere else (in the US). When it comes to peoples' sex, females typically see slightly higher insurance charges than males (by about \$34,000), but males did see the cheapest & most expensive insurance bills overall.
